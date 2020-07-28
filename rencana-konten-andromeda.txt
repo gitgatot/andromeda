@@ -1,0 +1,5 @@
+Rencana konten kedepan
+- GIT
+  * Membuat account Gitlab dan install git di local
+  * Menghubungkan dengan Web Hosting
+- Node.JS
